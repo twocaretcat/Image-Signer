@@ -1,13 +1,13 @@
 <!-- Project Header -->
-<div align="center"> 
+<div align="center">
   <h1 class="projectName">Image Signer</h1>
 
   <p class="projectBadges info">
     <img src="https://johng.io/badges/category/App.svg" alt="Project category" title="Project category">
-    <img src="https://img.shields.io/github/languages/top/jerboa88/Image-Signer.svg" alt="Language" title="Language">
-    <img src="https://img.shields.io/github/repo-size/jerboa88/Image-Signer.svg" alt="Repository size" title="Repository size">
+    <img src="https://img.shields.io/github/languages/top/twocaretcat/Image-Signer.svg" alt="Language" title="Language">
+    <img src="https://img.shields.io/github/repo-size/twocaretcat/Image-Signer.svg" alt="Repository size" title="Repository size">
     <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/jerboa88/Image-Signer.svg" alt="Project license" title="Project license"/>
+      <img src="https://img.shields.io/github/license/twocaretcat/Image-Signer.svg" alt="Project license" title="Project license"/>
     </a>
   </p>
   <p class="projectBadges status">
@@ -16,11 +16,11 @@
   	</a>
    	<img src="https://img.shields.io/badge/Experimental-%E2%9A%A0%EF%B8%8E-ca8a04.svg" alt="Experimental" title="Experimental"/>
   </p>
-  
+
   <p class="projectDesc">
     An experimental Python program to encode binary data within an image visually
   </p>
-  
+
   <br/>
 </div>
 

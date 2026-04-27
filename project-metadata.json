@@ -1,15 +1,26 @@
 {
-  "$schema": "https://johng.io/schema/project-metadata.json",
-  "name": "Image Signer",
-  "background": "An experimental Python program to encode binary data within an image visually. Created for the purpose of learning about image processing, steganography, and the SciKit Python library.",
+	"$schema": "https://johng.io/schema/project-metadata.json",
+	"name": "Image Signer",
+	"background": "Built an experimental Python CLI that encodes text into existing images by converting characters to bit patterns and shifting pixel brightness. The decoder scans repeated, separator-marked rows and uses per-character majority voting to reconstruct messages with simple error correction. Created as an image-processing and steganography proof of concept with NumPy and scikit-image, the project demonstrates how fragile visual data hiding can be under JPEG compression.",
 	"category": "App",
 	"subcategory": "CLI",
-  "technologies": [
-    "SciKit"
-  ],
-  "schema": {
-    "type": "Software",
-    "applicationCategory": "Design",
-    "operatingSystem": "Any"
-  }
+	"technologies": [
+		"NumPy",
+		"scikit-image"
+	],
+	"tools": [
+		"Git",
+		"GitHub"
+	],
+	"topics": [
+		"Algorithms",
+		"Image Processing",
+		"Steganography",
+		"OSS"
+	],
+	"schema": {
+		"type": "Software",
+		"applicationCategory": "Multimedia",
+		"operatingSystem": "Any"
+	}
 }
